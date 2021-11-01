@@ -4,7 +4,7 @@ Hi there, I'm Federico
 
 Main Languages and Tools
 
-![Python logo](/py\ logo.png) ![Typescript logo](tslogo.png) ![C++ logo](cpplogo.png) ![Java logo](javalogo.png)
+![Python logo](/pylogo.png =50x50) ![Typescript logo](tslogo.png =50x50) ![C++ logo](cpplogo.png =50x50) ![Java logo](javalogo.png =50x50)
 
 Main Projects
 
