@@ -1,12 +1,12 @@
-Hi there, I'm Federico
+## Hi there, I'm Federico
 
 [Portfolio](https://portfolio.federicocecchinato.com) | [Linkedln](https://www.linkedin.com/in/federico-cecchinato)
 
-Main Languages and Tools
+## Main Languages and Tools
 
-![Python logo](/pylogo.png =50x50) ![Typescript logo](tslogo.png =50x50) ![C++ logo](cpplogo.png =50x50) ![Java logo](javalogo.png =50x50)
+<img src="/pylogo.png" width="25"> <img src="tslogo.png" width="25"> <img src="/cpplogo.png" width="25"> <img src="/javalogo.png" width="25">
 
-Main Projects
+## Main Projects
 
 - [auto_events](https://github.com/auto_events)
 - [rang](https://github.com/rang)
