@@ -9,5 +9,5 @@
 ## Main Projects
 
 - [auto_events](https://github.com/auto_events)
-- [rang](https://github.com/rang)
-- [CodeViz](https://github.com/codeviz)
+- [rang](https://github.com/fedecech/rang)
+- [CodeViz](https://github.com/fedecech/codeviz)
