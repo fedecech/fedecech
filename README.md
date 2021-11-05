@@ -8,6 +8,6 @@
 
 ## Main Projects
 
-- [auto_events](https://github.com/auto_events)
+- [auto_events](https://github.com/fedecech/auto_events)
 - [rang](https://github.com/fedecech/rang)
 - [CodeViz](https://github.com/fedecech/codeviz)
